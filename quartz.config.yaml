@@ -160,7 +160,7 @@ plugins:
   - source: "@quartz-community/explorer"
     enabled: true
     options:
-      title: ""
+      title: 탐색기
     layout:
       position: left
       priority: 50
